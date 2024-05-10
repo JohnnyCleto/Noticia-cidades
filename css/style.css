@@ -168,6 +168,26 @@ input.submit:hover{
     background-color: #69001d;
 }
 
+
+img.imagem-principal{
+    width: 93%;
+    border: 3px solid #dfdfdf;
+    border-radius: 10px;
+}
+
+h3{
+    text-transform: uppercase;
+    display: inline;
+    font-size: 0.8em;
+    padding: 3px;
+}
+
+.destaque h3{
+    background: #b10333;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
 #rodape{
     background: #294c71;
     padding: 20px;
